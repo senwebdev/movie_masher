@@ -1,0 +1,14 @@
+{
+  "name": "jshint-stylish",
+  "homepage": "https://github.com/sindresorhus/jshint-stylish",
+  "version": "0.2.0",
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.0",
+    "commit": "59beba07b456161ee7233ce132a7bb754ffc7bcb"
+  },
+  "_source": "https://github.com/sindresorhus/jshint-stylish.git",
+  "_target": "^0.2.0",
+  "_originalSource": "jshint-stylish"
+}

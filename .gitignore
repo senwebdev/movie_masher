@@ -1,0 +1,2 @@
+.DS_Store
+config/docker/node/node_modules*
